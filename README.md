@@ -1,6 +1,6 @@
 # Power-BI-UK-Bank-Customers-Analysis
 
-P6-UK-Bank-Customers.csv : Dataset is dummy data for an imaginary bank operating in the UK.
+P6-UK-Bank-Customers.csv : Dataset for an imaginary bank operating in the UK.
 
 UK_Bank_Analysis.pbix : Power BI Report of Above Dataset 
 
